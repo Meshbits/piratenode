@@ -64,9 +64,7 @@ And Raspberry Pi 5 is the best fit.
 
 ### Other Good Raspberry Pi 5 Cases
 
- 1. [Argon NEO 5 M.2 NVME PCIE Case for Raspberry Pi 5](https://argon40.com/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5)
- 1.1. [Video Resource](https://www.youtube.com/watch?v=5Su4u4G-VIk)
+ 1. [Argon NEO 5 M.2 NVME PCIE Case for Raspberry Pi 5](https://argon40.com/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5) - [Video Link](https://www.youtube.com/watch?v=5Su4u4G-VIk)
 
- 2. [Argon ONE V3 M.2 NVME PCIE Case](https://argon40.com/products/argon-one-v3-m-2-nvme-case)
- 2.1 [Video Resource](https://www.youtube.com/watch?v=DQG21yJ-upk)
+ 2. [Argon ONE V3 M.2 NVME PCIE Case](https://argon40.com/products/argon-one-v3-m-2-nvme-case) - [Video Link](https://www.youtube.com/watch?v=DQG21yJ-upk)
 
