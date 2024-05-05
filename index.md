@@ -14,7 +14,7 @@ In true Bitcoin's nature, the author(s)/contributor(s) of this website beleives 
 
 ## Table of contents
 
-- [Buy Raspberry Pi kit - how to setup Raspberry Pi OS](#buy-raspberry-pi-kit)
+- [Buy Raspberry Pi kit](#buy-raspberry-pi-kit)
 - [How to find the node on network and connect to it](#)
 - [Upgrade OS, update SWAP size, configure WiFi, install packages git, htop](#)
 - [Install Tor and setup onion node](#)
