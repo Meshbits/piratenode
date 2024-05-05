@@ -51,7 +51,7 @@ And Raspberry Pi 5 is the best fit.
  2. [Raspberry Pi Power Supply](https://www.raspberrypi.com/products/27w-power-supply/)
  3. [Raspberry Pi 5 Case](https://www.raspberrypi.com/products/raspberry-pi-5-case/)
  4. microSD Card - Recommended any 128GB or more storage microSD Memory Card. Samsung and SankDisk are the best known microSD cards for such project.
- 5. USD SD Card Adapter - You just need to ability to attach the microSD Card to your computer to install Raspberry Pi Operating System on it. And there are many forms of SD Card adapters. Find USB-A or USB-C type adapters for this guide.
+ 5. USB SD Card Adapter - You just need the ability to attach the microSD Card to your computer to install Raspberry Pi Operating System on it. And there are many forms of SD Card adapters. Find USB-A or USB-C type adapters for this guide.
 
 ### MicroSD Card links
 
