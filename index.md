@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Host personal pirate chain full node from home # name of the site
 ---
 
 ### About this project
