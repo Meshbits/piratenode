@@ -1,4 +1,4 @@
-title: Pirate Node - Host personal pirate chain full node from home # name of the site
+title: Pirate Node
 author: Satinder Grewal # name of site's author
 url: https://piratenode.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
