@@ -31,7 +31,7 @@ In true Bitcoin's nature, the author(s)/contributor(s) of this website beleives 
 - [How to find and connect with other pirate Tor node peers](#)
 
 
-## [Buy Raspberry Pi Kit]
+## Buy Raspberry Pi Kit
 
 The most basic requirements to get started with a personal pirate node at home is to use Raspberry Pi.
 And Raspberry Pi 5 is the best fit.
