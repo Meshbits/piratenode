@@ -36,7 +36,7 @@ In true Bitcoin's nature, the author(s)/contributor(s) of this website beleives 
 The most basic requirements to get started with a personal pirate node at home is to use Raspberry Pi.
 And Raspberry Pi 5 is the best fit.
 
-### It is
+### Why Raspberry Pi
 
  - Small in size.
  - Extremely efficient on power.
