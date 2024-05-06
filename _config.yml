@@ -28,8 +28,8 @@ repository: Meshbits/piratenode # for github-metadata
 permalink: pretty
 
 # Build settings
-theme: just-the-docs
-remote_theme: just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
