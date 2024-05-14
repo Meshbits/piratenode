@@ -26,9 +26,15 @@ You have to use a command line terminal according to the Operating System you ar
 # Ping Pirate Node
 You can use `ping` command to test if Pirate Node is accessible over your local network.
 
+Ping command:
+
 ```bash
-ping piratenode.local
 ping piratenode.local 
+```
+
+Ping output:
+
+```bash
 PING piratenode.local (192.168.1.45): 56 data bytes
 64 bytes from 192.168.1.45: icmp_seq=0 ttl=64 time=12.295 ms
 64 bytes from 192.168.1.45: icmp_seq=1 ttl=64 time=9.951 ms
