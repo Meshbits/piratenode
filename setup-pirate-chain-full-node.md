@@ -47,7 +47,7 @@ The number like `v5.8.2` is the version number of the latest Pirate chain comman
 
 Right click on this `.zip` file link and from the right click menu select whatever option allows you to copy it's link. It might show different phrase/line according to your OS and Web browser. Following is example from Google Chrome on MacOS:
 
-![](/assets/images/install-pirate-full-node/pirate-chain-files-for-raspi.png)
+![](/assets/images/install-pirate-full-node/pirate-chain-download-link.png)
 
 Doing this you will have the direct link of the file copied. The URL will look like following:
 
