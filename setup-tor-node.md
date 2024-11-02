@@ -54,6 +54,10 @@ HiddenServicePort 9068 127.0.0.1:9068
 HiddenServicePort 80 127.0.0.1:80
 ```
 
+The end of `torrc` file will look like the following screen-shot:
+
+![](/assets/images/setup-tor-node/piratelightd-torrc-settings.png)
+
 After this, save the file with keyboard shortcuts `CTRL+O`, then press `ENTER`, then press `CTRL+X` to exit, then press `ENTER`.
 
 Expecting everything went smooth with this step, now restart the `Tor` service on this device and check it's status to make sure it is running fine.
